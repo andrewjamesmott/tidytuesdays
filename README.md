@@ -1,2 +1,2 @@
 # tidytuesdays
-A repository for my '#'tidytuesday attempts.
+A repository for my \#tidytuesday attempts.

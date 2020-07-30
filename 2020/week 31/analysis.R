@@ -19,11 +19,11 @@ fill_values <- c("#ff6b00","#c95dca", "#067576")
 # subttitle
 
 penguin_subtitle = glue("A look at the distribution of mass and flipper length in",
-                        "<span style= color:{fill_values[3]}> Gentoo, </span>",
                         "<span style= color:{fill_values[2]}> Chinstrap, </span>",
+                        "<span style= color:{fill_values[3]}> Gentoo, </span>",
                         "and",
-                        "<span style= color:{fill_values[1]}> Adelie, </span>",
-                        "Penguins studied on the Palmer Archipelago, Antarctica"
+                        "<span style= color:{fill_values[1]}> Adelie </span>",
+                        "penguins studied on the Palmer Archipelago, Antarctica"
                         )
 
 # Plot 
